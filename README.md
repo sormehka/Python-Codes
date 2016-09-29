@@ -7,5 +7,5 @@ Greedy Algorithm: These codes each apply greedy strategy to solve various comput
 
 Divide & Conquer Algorithm: These codes each apply the divide-and-conquer technique to solve various computational problems efficiently by splitting them into several disjoint subproblems, solving them recursively, and then combining their results to get an answer for the initial problem.
 
-Dynamic Programming:
+Dynamic Programming: These codes each apply the dynamic programming technique to solve various computational problems by solving a collection of overlapping subproblems (as opposed to the divide-and-conquer technique where subproblems are usually disjoint) and combining the results.
 
